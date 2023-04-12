@@ -1,4 +1,4 @@
-API_KEY = "77bd9cad63654e6f961fb4e1f62ca48c"  # Replace with your own API key from Open Exchange Rates
+API_KEY = "API-KEY"  # Replace with your own API key from Open Exchange Rates
 SUPPORTED_CURRENCIES = [
     "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG", "AZN",
     "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB", "BRL",
